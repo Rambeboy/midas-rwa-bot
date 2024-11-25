@@ -23,7 +23,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rambeboy/midas-RWA-bot.git"
+    "url": "git+https://github.com/Rambeboy/midas-rwa-bot.git"
   },
   "dependencies": {
     "https-proxy-agent": "^7.0.5",
